@@ -1,4 +1,4 @@
 name = 'nabiot'
-print('name')
+print(name)
 name2 = 'la'
-print ('name2')
+print (name2)
