@@ -28,4 +28,3 @@ full_name= ('nabiot gedar')
 print (full_name.replace('gedar','miok'))
 b ='A' * 100
 print (b)
-print
